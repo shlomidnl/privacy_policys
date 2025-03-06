@@ -1,11 +1,11 @@
 Privacy Policy
 ==============
 
-Last updated: March 01, 2025
+Last updated: March 06, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 Interpretation and Definitions
 ------------------------------
@@ -139,6 +139,18 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 ### Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+
+### Advertising
+
+Our app uses the Google Mobile Ads SDK (AdMob) to display personalized advertisements. Google may use cookies, web beacons, and similar technologies to collect and store information when you interact with ads served by AdMob. This includes the use of an advertising identifier—a unique, resettable ID provided by Google—to deliver more relevant ads to you.
+
+**Please note:**
+
+- We do not combine or use your advertising identifier with any personally identifiable information.
+- The data collected by Google is subject to [Google's Privacy Policy](https://policies.google.com/technologies/ads) and [Ads Policies](https://support.google.com/admob/answer/6128543).
+- By using our app, you consent to the processing of your data by Google for advertising purposes as described above.
+
+If you have any questions or concerns about how your data is used for advertising, please refer to Google’s policies or contact us at admin@flydaniel.com
 
 Children's Privacy
 ------------------
